@@ -41,6 +41,8 @@ body {
   font-weight: 400;
   font-style: normal;
   text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 .flowers {
@@ -999,10 +1001,10 @@ body {
 
 /* Loi Chuc */
 .container-loichuc {
-  padding: 20px;
+  padding: 20px 5px;
   top: 20px;
   position: fixed;
-  width: 630px;
+  width: 100%;
 }
 
 .container-loichuc p{
