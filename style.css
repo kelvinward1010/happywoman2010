@@ -33,7 +33,7 @@ body {
 
 .happy-woman-day {
   color: white;
-  font-size: 40px;
+  font-size: 35px;
   position: fixed;
   top: 80px;
   font-family: "Playwrite GB S", cursive;
@@ -1001,7 +1001,7 @@ body {
 
 /* Loi Chuc */
 .container-loichuc {
-  padding: 20px 5px;
+  padding: 20px 3px;
   top: 20px;
   position: fixed;
   width: 100%;
